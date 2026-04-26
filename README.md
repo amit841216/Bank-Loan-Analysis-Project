@@ -427,3 +427,4 @@ Can indicate financial stability trends.
 - **Expansion Opportunity:** States with high demand and low defaults should be growth targets.
 
 - **Customer Strategy:** Debt consolidation and credit card refinancing often dominate loan demand.
+# Bank-Loan-Analysis-Project
